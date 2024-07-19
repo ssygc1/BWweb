@@ -89,7 +89,7 @@ header p {
 }
 
 .video {
-    max-width: 500px;
+    max-width: 300px;
     margin: 10px auto;
     text-align: center;
 }
@@ -98,6 +98,13 @@ header p {
     margin-bottom: 10px;
     color: #fff;
     text-shadow: 1px 1px 6px #000;
+}
+
+.video-size {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
 footer {
