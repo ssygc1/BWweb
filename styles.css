@@ -171,9 +171,13 @@ footer {
     animation: fadeIn 1s ease-in-out;
 }
 .link-detail {
-    color: red;
+    color: rgb(81, 80, 80) !important;
 }
 
 .link-play {
-    color: blue;
+    color: rgb(162, 255, 0) !important;
+}
+a {
+    color: #869278; /* 紫色 */
+    text-decoration: none; /* 去掉下划线 */
 }
